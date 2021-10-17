@@ -2,11 +2,11 @@
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Xrsirx5/AutoFilterBotv4?style=social)
-<img src="https://img.shields.io/github/forks/DalinMathew/AutoFilterBotV3?style=social"></img>
+<img src="https://img.shields.io/github/forks/Xrsirx5/AutoFilterBotv4?style=social"></img>
 ## How To Deploy Video
 <a href="https://youtu.be/5hnYOKBzyi8"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
 ## Subscribe YouTube Channel
-<a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+<a href="https://youtube.com/Bot king"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
 
 #### Added Features
 * Imdb posters for autofilter.
@@ -75,7 +75,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
-* [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+* [Editing Alif Muhammed](https://github.com/Xrsirx5/Autofilterbotv4)
 * [Mo Tech YT](https://t.me/Mo_Tech_Group)
 * [Lucifer Morningstar](@Lucifer_Devil_AD)
 
