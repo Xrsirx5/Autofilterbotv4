@@ -1,7 +1,6 @@
 {
-    "name": "Auto Filter Bot v4",
-    "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
-    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
+    "name": "LuciferMoringstar_Robot",
+    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Xrsirx5/AutoFilterBotv3",https://github.com/Xrsirx5/AutoFilterBotV4 
-    "repository": "https://github.com/Xrsirx5/AutoFilterBotv3",
+    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
+    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -50,7 +49,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm Auto Filter Bot With Greater Abilities**",
+            "value": "**Hey {} I'm ADV Auto Filter Bot**",
             "required": false
         },
         "USE_CAPTION_FILTER": {
@@ -74,11 +73,11 @@
             "required": false
         },
         "DATABASE_2": {
-            "description": "mongoDB URI. Get this value from https://www.mongodb.com ",
+            "description": "mongoDB URI. Get this value from https://www.mongodb.com. For more help watch this video - https://youtu.be/gBLTsH-IXr0",
             "value": ""
         },
         "BOT_NAME": {
-            "description": "Name of the database in mongoDB ",
+            "description": "Name of the database in mongoDB. For more help watch this video - https://youtu.be/dsuTn4qV2GA",
             "value": "LuciferMoringstar_Robot"
         },
         "COLLECTION_NAME": {
@@ -97,7 +96,7 @@
             "required": false
         },
         "DATABASE_1": {
-            "description": "Broadcast Group Database",
+            "description": "https://youtu.be/gBLTsH-IXr0",
             "value": "",
             "required": true
         },
